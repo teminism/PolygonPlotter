@@ -1,4 +1,4 @@
 ### Polygon Plotter
 
 
-![](polygon.gif)
+![](/polygon.gif)
